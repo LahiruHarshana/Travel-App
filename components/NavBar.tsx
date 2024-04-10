@@ -9,6 +9,10 @@ const NavBar = () => {
         <Image src="/logo.png" alt='logo' width={70} height={29}>
 
         </Image>
+
+        <ul>
+            
+        </ul>
     </Link>
     </nav>
   )
