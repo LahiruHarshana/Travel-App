@@ -3,12 +3,12 @@ import Button from './Button';
 
 const Hero = () => {
   return (
-    <section className='max-container padding-container relative flex flex-col justify-center items-center gap-20 py-10 pb-32 md:gap-20 lg:py-20 xl:flex-row'>
+    <section className=' padding-container relative flex flex-col justify-center items-center gap-20 py-10 pb-32 md:gap-20 lg:py-20 xl:flex-row'>
       <div className="absolute inset-0 w-full h-full z-0">
         <div className="absolute inset-0 bg-black opacity-50"></div>
         <img src="/pattern-bg.jpg" alt="Hero Map" className="object-cover w-full h-full" />
       </div>
-      <div className="text-center z-10 flex flex-col justify-center items-center">
+      <div className="text-center z-10 flex flex-col justify-center items-center" style={{width:'80vw'}}>
         <h1 className="text-white text-4xl md:text-4xl lg:text-5xl xl:text-6xl font-bold mb-4">Experience the Magic of Sri Lanka</h1>
         <p className="text-white">Discover the enchanting allure of Sri Lanka, where ancient wonders meet breathtaking landscapes. Explore vibrant markets, relax on palm-fringed beaches, and wander through lush tea plantations. With rich history, warm hospitality, and endless adventures, Sri Lanka awaits your discovery.</p>
         <div className="mt-4">

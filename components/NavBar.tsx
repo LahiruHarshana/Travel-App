@@ -6,7 +6,7 @@ import Button from './Button'
 
 const NavBar = () => {
   return (
-    <nav className='flexBetween max-container padding-container relative z-30 py-5'>
+    <nav className='flexBetween  padding-container relative z-30 py-5'>
     <Link href="/">
         <Image src="/logo.png" alt='logo' width={70} height={29}>
 
