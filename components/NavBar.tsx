@@ -6,7 +6,7 @@ import Button from './Button'
 
 const NavBar = () => {
   return (
-    <nav className='flexBetween padding-container relative z-30 py-5' style={{ background: 'transparent !important' }}>
+    <nav className='flexBetween padding-container py-5' style={{ backgroundColor: 'rgba(255, 255, 255, 0.8)', position: 'fixed', top: 0, left: 0, right: 0, zIndex: 30 }}>
       <Link href="/">
         <Image src="/logo.png" alt='logo' width={70} height={29} />
       </Link>
