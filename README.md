@@ -1,5 +1,7 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+![WhatsApp Image 2024-04-11 at 23 22 01](https://github.com/LahiruHarshana/Travel-App/assets/124744833/ae0dadfd-1bea-47aa-930d-4cefc466268f)
+
 ## Getting Started
 
 First, run the development server:
